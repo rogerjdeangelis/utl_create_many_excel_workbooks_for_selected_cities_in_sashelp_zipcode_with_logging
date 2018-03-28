@@ -1,0 +1,2 @@
+# utl_create_excel_workbook_for_selected_cities_in_sashelp_zipcode_with_logging
+Create an excel workbook for selected cities in sashelp zipcode with logging.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverfl SAS community.
